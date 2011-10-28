@@ -105,7 +105,7 @@ def do_setup ():
         infodir = "info"
     setup(
         name = "rubber",
-        version = settings.sub["version"],
+        version = "1.0",
         description = "an automated system for building LaTeX documents",
         long_description = """\
 This is a building system for LaTeX documents. It is based on a routine that
